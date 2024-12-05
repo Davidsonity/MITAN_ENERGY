@@ -1,5 +1,8 @@
 # Mitan Energy AI Chatbot Application
 
+![chatbot-logo](https://github.com/user-attachments/assets/1fdb5a6d-8e46-4221-98d7-783207246b35)
+
+
 ## Overview
 The **Mitan Energy AI Chatbot** is an interactive, AI-powered assistant designed to provide insights and information about **Mitan Energy Company Ltd**. It leverages state-of-the-art natural language processing (NLP) and retrieval-based models to deliver concise, accurate, and meaningful responses.
 
